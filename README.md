@@ -1,17 +1,5 @@
 ## HELLO 👋, I'M **V.KEERTHI VAASEN** <img src="https://img.shields.io/twitter/follow/KEERTHIVAASEN?style=social" alt="KEERTHHIVAASEN-twitter" />
 </h1>
-I Am Preserving B.SC Computer Science. Specialized in Cloud, ML and Developing in GCP(Google Development Platform) interactive systems 👨‍🎓.I am a versatilist and easily adapt to different hats (Backend Developer 🌐, App Developer 📱, Cloud Developer ☁, To protect data & hack or beginner level Designer 🎨) depending on what the project requires. I love experimenting and researching the latest technology 💻 and leveraging them to build cool stuffs 🛠️. It empowers me to create magnificent products.
-GDSC Lead in Campus as a Professional Trainer of GDSC(Cloud,ML) 💻. Also, I Am a Python ML Trainer Bages by GDG Club 👨‍💻.
-I Am interested in cross-platform, web and mobile applications from the server ⚙️ to the client 📱. 
-I teach in different master's programs ,development and evaluation of New Technoogy products. I love the React.Js and Node.js ecosystem 💓.
-Apart from teaching and developing, I enjoy music 🎵 ,Playing Badminton 🎾, Playing guitar 🎸, Reading Article 📚 , Watching Tv Series/movies 📺 and sharing good times (good chat?). I love to keep learning and keep moving forward.
-You can also access my 🚀 website where little by little you can get to know me a little more 
-I am proud to be a GDSC Trainer. I can help you apply super powers to develop our code or how to apply them to teaching. It will be a pleasure to help you with it. Count on me! 💪
-<br>
-<!-- Custom Image.. Beware the width -->
-<img align="right" alt="JPG" src="https://images.techhive.com/images/article/2016/11/computerworld_tech_forecast_2017_hottest-tech-skills-for-2017-100692085-large.3x2.jpg" width="400px"/>
-
-### 🧐 More About Me:
 
 - 🔭 &nbsp; I’m currently working on **Cloud Service's (GCP)**
 - 🤝 &nbsp; I’m looking to collaborate on Future Projects
@@ -23,6 +11,20 @@ I am proud to be a GDSC Trainer. I can help you apply super powers to develop ou
 - 📝 &nbsp; Checkout my https://github.com/KEERTHIVAASEN
 - 💆‍♂️ &nbsp; When I am free, I play games and listen to podcast's
 --- 
+
+<br>
+<!-- Custom Image.. Beware the width -->
+<img align="right" alt="JPG" src="https://images.techhive.com/images/article/2016/11/computerworld_tech_forecast_2017_hottest-tech-skills-for-2017-100692085-large.3x2.jpg" width="400px"/>
+
+### 🧐 More About Me:
+I Am Preserving B.SC Computer Science. Specialized in Cloud, ML and Developing in GCP(Google Development Platform) interactive systems 👨‍🎓.I am a versatilist and easily adapt to different hats (Backend Developer 🌐, App Developer 📱, Cloud Developer ☁, To protect data & hack or beginner level Designer 🎨) depending on what the project requires. I love experimenting and researching the latest technology 💻 and leveraging them to build cool stuffs 🛠️. It empowers me to create magnificent products.
+GDSC Lead in Campus as a Professional Trainer of GDSC(Cloud,ML) 💻. Also, I Am a Python ML Trainer Bages by GDG Club 👨‍💻.
+I Am interested in cross-platform, web and mobile applications from the server ⚙️ to the client 📱. 
+I teach in different master's programs ,development and evaluation of New Technoogy products. I love the React.Js and Node.js ecosystem 💓.
+Apart from teaching and developing, I enjoy music 🎵 ,Playing Badminton 🎾, Playing guitar 🎸, Reading Article 📚 , Watching Tv Series/movies 📺 and sharing good times (good chat?). I love to keep learning and keep moving forward.
+You can also access my 🚀 website where little by little you can get to know me a little more 
+I am proud to be a GDSC Trainer. I can help you apply super powers to develop our code or how to apply them to teaching. It will be a pleasure to help you with it. Count on me! 💪
+
 
 <!--TECH STACKS AND TOOLS-->
 ### 🖥️ My DevSetup
@@ -64,15 +66,11 @@ I am proud to be a GDSC Trainer. I can help you apply super powers to develop ou
 <!-- ## Support me
 <!-- 🙌Feel free to use the badges or images.. -->
 
-<h2 align="center">⚡ Technologies </h2>
-<p align="center">
-
-</p>
-These are just some of the technologies 💻 that I usually use on or collaborate with me on a personal level and to which I thank you for your trust and support.
-
 <h2 align="center">📈 My Activity</h2>
 
 <p align="center">
+These are just some of the technologies 💻 that I usually use on or collaborate with me on a personal level and to which I thank you for your trust and support. 
+
   <a href="http://www.github.com/KEERTHIVAASEN"><img loading="lazy" src="https://github-readme-stats.vercel.app/api?username=KEERTHIVAASEN&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=27272a&hide_border=true&show_icons=true" alt="KEERTHIVAASEN's GitHub stats" height="150"/></a>
 </p>
 
