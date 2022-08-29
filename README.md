@@ -14,7 +14,7 @@
 --- 
 <br>
 <!-- Custom Image.. Beware the width -->
-<img align="right" alt="JPG" src="https://images.techhive.com/images/article/2016/11/computerworld_tech_forecast_2017_hottest-tech-skills-for-2017-100692085-large.3x2.jpg" width="400px"/>
+<img align="right" alt="JPG" src="https://raw.githubusercontent.com/KEERTHIVAASEN/KEE/main/KEERTHIVAASEN.png" width="400px"/>
 
 ### 🧐 More About Me:
 I Am Preserving B.SC Computer Science. Specialized in Cloud, ML and Developing in GCP(Google Development Platform) interactive systems 👨‍🎓.I am a versatilist and easily adapt to different hats (Backend Developer 🌐, App Developer 📱, Cloud Developer ☁, To protect data & hack or beginner level Designer 🎨) depending on what the project requires. I love experimenting and researching the latest technology 💻 and leveraging them to build cool stuffs 🛠️. It empowers me to create magnificent products.
