@@ -14,14 +14,17 @@
 --- 
 <br>
 <!-- Custom Image.. Beware the width -->
-<img align="right" alt="JPG" src="https://raw.githubusercontent.com/KEERTHIVAASEN/KEE/main/KEERTHIVAASEN.png" width="400px"/>
+<img align="right" alt="JPG" src="https://raw.githubusercontent.com/KEERTHIVAASEN/KEE/main/KEERTHIVAASEN.png"/>
+.
 
 ### 🧐 More About Me:
 I Am Preserving B.SC Computer Science. Specialized in Cloud, ML and Developing in GCP(Google Development Platform) interactive systems 👨‍🎓.I am a versatilist and easily adapt to different hats (Backend Developer 🌐, App Developer 📱, Cloud Developer ☁, To protect data & hack or beginner level Designer 🎨) depending on what the project requires. I love experimenting and researching the latest technology 💻 and leveraging them to build cool stuffs 🛠️. It empowers me to create magnificent products.
+
 GDSC Lead in Campus as a Professional Trainer of GDSC(Cloud,ML) 💻. Also, I Am a Python ML Trainer Bages by GDG Club 👨‍💻.
 I Am interested in cross-platform, web and mobile applications from the server ⚙️ to the client 📱. 
 I teach in different master's programs ,development and evaluation of New Technoogy products. I love the React.Js and Node.js ecosystem 💓.
 Apart from teaching and developing, I enjoy music 🎵 ,Playing Badminton 🎾, Playing guitar 🎸, Reading Article 📚 , Watching Tv Series/movies 📺 and sharing good times (good chat?). I love to keep learning and keep moving forward.
+
 You can also access my 🚀 website where little by little you can get to know me a little more 
 I am proud to be a GDSC Trainer. I can help you apply super powers to develop our code or how to apply them to teaching. It will be a pleasure to help you with it. Count on me! 💪
 
@@ -96,4 +99,3 @@ These are just some of the technologies 💻 that I usually use on or collaborat
     height="50">
     </a>
     </p>
-
