@@ -9,6 +9,7 @@
 - 💬 &nbsp; Ask me about anything tech related, I am happy to help;
 - 📫 &nbsp; Feel free to ping me on Twitter [@keerthivaasen](https://twitter.com/KEERTHIVAASEN) 
 - 📝 &nbsp; Checkout my https://github.com/KEERTHIVAASEN
+- 👨‍💻 &nbsp; Google Developer Profile https://g.dev/KEERTHIVAASEN 
 - 💆‍♂️ &nbsp; When I am free, I play games and listen to podcast's
 --- 
 <br>
@@ -90,7 +91,7 @@ These are just some of the technologies 💻 that I usually use on or collaborat
         <img loading="lazy" src="https://logodownload.org/wp-content/uploads/2017/11/discord-logo-4-1.png" 
     height="50"> &nbsp;&nbsp;
     </a>
-    <a href="https://developers.google.com/profile/u/109626521451859494835" target="_blank">
+    <a href="https://g.dev/KEERTHIVAASEN" target="_blank">
         <img loading="lazy" src="https://googlediscovery.com/wp-content/uploads/google-developers.png" 
     height="50">
     </a>
