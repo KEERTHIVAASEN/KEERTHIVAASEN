@@ -1,5 +1,6 @@
 ## HELLO 👋, I'M **V.KEERTHI VAASEN** 
 </h1>
+<a href="https://app.daily.dev/KEERTHIVAASEN"><img  align="right" src="https://api.daily.dev/devcards/e82b8aa8f6b148ec94b49a19e1abb440.png?r=tgz" width="200" alt="KEERTHI  VAASEN's Dev Card"/></a>
 
 - 🔭 &nbsp; I’m currently working on **Cloud Service's (GCP)**
 - 🤝 &nbsp; I’m looking to collaborate on Future Projects
@@ -13,9 +14,6 @@
 - 💆‍♂️ &nbsp; When I am free, I play games and listen to podcast's
 --- 
 <br>
-<!-- Custom Image.. Beware the width -->
-<img align="right" alt="JPG" src="https://raw.githubusercontent.com/KEERTHIVAASEN/KEE/main/KEERTHIVAASEN.png"/>
-.
 
 ### 🧐 More About Me:
 I Am Preserving B.SC Computer Science. Specialized in Cloud, ML and Developing in GCP(Google Development Platform) interactive systems 👨‍🎓.I am a versatilist and easily adapt to different hats (Backend Developer 🌐, App Developer 📱, Cloud Developer ☁, To protect data & hack or beginner level Designer 🎨) depending on what the project requires. I love experimenting and researching the latest technology 💻 and leveraging them to build cool stuffs 🛠️. It empowers me to create magnificent products.
@@ -28,7 +26,8 @@ Apart from teaching and developing, I enjoy music 🎵 ,Playing Badminton 🎾, 
 You can also access my 🚀 website where little by little you can get to know me a little more 
 I am proud to be a GDSC Trainer. I can help you apply super powers to develop our code or how to apply them to teaching. It will be a pleasure to help you with it. Count on me! 💪
 
-
+<!-- Custom Image.. Beware the width -->
+<img align="right" alt="JPG" src="https://raw.githubusercontent.com/KEERTHIVAASEN/KEE/main/KEERTHIVAASEN.png"/>
 <!--TECH STACKS AND TOOLS-->
 ### 🖥️ My DevSetup
   [![OS](https://img.shields.io/badge/OS-Windows-blue?style=flat-square&logo=windows)](https://www.microsoft.com/en-in/windows/windows-11)
@@ -68,7 +67,6 @@ I am proud to be a GDSC Trainer. I can help you apply super powers to develop ou
 <p align="center">
 These are just some of the technologies 💻 that I usually use on or collaborate with me on a personal level and to which I thank you for your trust and support. 
 
-  <a href="http://www.github.com/KEERTHIVAASEN"><img loading="lazy" src="https://github-readme-stats.vercel.app/api?username=KEERTHIVAASEN&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=27272a&hide_border=true&show_icons=true" alt="KEERTHIVAASEN's GitHub stats" height="150"/></a>
 </p>
 
 
