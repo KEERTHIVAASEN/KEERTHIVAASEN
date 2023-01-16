@@ -28,6 +28,7 @@ I am proud to be a GDSC Trainer. I can help you apply super powers to develop ou
 
 <!-- Custom Image.. Beware the width -->
 <img align="right" alt="JPG" src="https://raw.githubusercontent.com/KEERTHIVAASEN/KEE/main/KEERTHIVAASEN.png"/>
+
 <!--TECH STACKS AND TOOLS-->
 ### 🖥️ My DevSetup
   [![OS](https://img.shields.io/badge/OS-Windows-blue?style=flat-square&logo=windows)](https://www.microsoft.com/en-in/windows/windows-11)
