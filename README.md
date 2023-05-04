@@ -12,8 +12,8 @@
 - 📫 &nbsp; Feel free to ping me on Twitter [@keerthivaasen](https://twitter.com/KEERTHIVAASEN) 
 - 📝 &nbsp; Checkout my https://github.com/KEERTHIVAASEN
 - 👨‍💻 &nbsp; Google Developer Profile https://g.dev/KEERTHIVAASEN 
-- 💆‍♂️ &nbsp; When I am free, I play games and listen to podcast's
---- 
+- 💆‍♂️ &nbsp; When I am free, I play games and listen to podcast's <br>
+---
 <br>
 
 ### 🧐 More About Me:
