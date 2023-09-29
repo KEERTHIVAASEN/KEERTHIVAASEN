@@ -1,8 +1,6 @@
 ## HELLO 👋, I'M **V.KEERTHI VAASEN** 
 
 
-<a href="https://app.daily.dev/KEERTHIVAASEN"><img  align="right" src="https://api.daily.dev/devcards/e82b8aa8f6b148ec94b49a19e1abb440.png?r=tgz" width="200" alt="KEERTHI  VAASEN's Dev Card"/></a>
-
 - 🔭 &nbsp; I’m currently working on **Cloud Service's (GCP)**
 - 🤝 &nbsp; I’m looking to collaborate on Future Projects
 - 🌱 &nbsp; I’m currently learning Kotlin
