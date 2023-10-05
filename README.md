@@ -3,21 +3,22 @@
 
 - 🔭 &nbsp; I’m currently working on **Cloud Service's (GCP)**
 - 🤝 &nbsp; I’m looking to collaborate on Future Projects
-- 🌱 &nbsp; I’m currently learning Kotlin
-- 🤔 &nbsp; I’m looking for help with `JavaScript`
-- 👨🏻‍💻 &nbsp; Looking for : `.java`, `.js`
+- 🌱 &nbsp; I’m currently learning Django
+- 🤔 &nbsp; I’m looking for help with `JavaScript Frameworks`
+- 👨🏻‍💻 &nbsp; Looking for : `.Django`, `.Flask`
 - 💬 &nbsp; Ask me about anything tech related, I am happy to help;
 - 📫 &nbsp; Feel free to ping me on LinkedIn [@keerthivaasen](https://www.linkedin.com/in/keerthivaasen-v-06b577229) 
 - 📝 &nbsp; Checkout my https://github.com/KEERTHIVAASEN
-- 👨‍💻 &nbsp; Google Developer Profile https://g.dev/KEERTHIVAASEN 
-- 💆‍♂️ &nbsp; When I am free, I play games and listen to podcast's <br>
+- 👨‍💻 &nbsp; Google Developer Profile https://g.dev/KEERTHIVAASEN
+- 💻&nbsp; Microsoft Developer Profile https://learn.microsoft.com/en-us/users/KEERTHIVAASEN
+- 💆‍♂️ &nbsp; When I'm free, I Play games and listen to podcast's <br>
 ---
 <br>
 
 ### 🧐 More About Me:
-I'm Preserving B.SC Computer Science. Specialized in Cloud, ML and Developing in GCP(Google Development Platform) interactive systems 👨‍🎓.I am a versatilist and easily adapt to different hats (Backend Developer 🌐, App Developer 📱, Cloud Developer ☁, To protect data & hack or beginner level Designer 🎨) depending on what the project requires. I love experimenting and researching the latest technology 💻 and leveraging them to build cool stuffs 🛠️. It empowers me to create magnificent products.
+I'm Preserving B.SC Computer Science. Specialized in Cloud, ML and Developing in GCP(Google Development Platform) interactive systems 👨‍🎓.I'm a versatilist and easily adapt to different hats (Backend Developer 🌐, App Developer 📱, Cloud Developer ☁, To protect data & hack or beginner level Designer 🎨) depending on what the project requires. I love experimenting and researching the latest technology 💻 and leveraging them to build cool stuffs 🛠️. It empowers me to create magnificent products.
 
-GDSC Lead in Campus as a Professional Trainer of GDSC(Cloud,ML) 💻. Also, I Am a Python ML Trainer Bages by GDG Club 👨‍💻.
+Ex GDSC Lead in Campus as a Professional Trainer of GDSC(Cloud,ML) 💻. Also, I Am a Python ML Trainer Bages by GDG Club 👨‍💻.
 I Am interested in cross-platform, web and mobile applications from the server ⚙️ to the client 📱. 
 I teach in different master's programs ,development and evaluation of New Technoogy products. I love the React.Js and Node.js ecosystem 💓.
 Apart from teaching and developing, I enjoy music 🎵 ,Playing Badminton 🎾, Playing guitar 🎸, Reading Article 📚 , Watching Tv Series/movies 📺 and sharing good times (good chat?). I love to keep learning and keep moving forward.
