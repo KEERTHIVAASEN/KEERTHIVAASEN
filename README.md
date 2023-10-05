@@ -84,7 +84,7 @@ These are just some of the technologies 💻 that I usually use on or collaborat
         <img loading="lazy" src="https://i.imgur.com/U4Uiaef.png" 
     height="50">
     </a> &nbsp;&nbsp;
-    <a href="https://www.linkedin.com/in/keerthi-vaasen-06b577229" target="_blank">
+    <a href="https://www.linkedin.com/in/keerthivaasen-v-06b577229" target="_blank">
         <img loading="lazy" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/LinkedIn_logo_initials.png/768px-LinkedIn_logo_initials.png" 
     height="50">
     </a> &nbsp;&nbsp;
